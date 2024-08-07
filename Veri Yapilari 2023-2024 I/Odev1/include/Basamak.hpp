@@ -1,6 +1,6 @@
 #ifndef Basamak_HPP
 #define Basamak_HPP
-
+///======///
 #include <iostream>
 using namespace std;
 
